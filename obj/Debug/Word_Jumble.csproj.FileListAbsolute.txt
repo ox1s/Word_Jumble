@@ -1,0 +1,7 @@
+H:\C#Learning\Word_Jumble\bin\Debug\Word_Jumble.exe.config
+H:\C#Learning\Word_Jumble\bin\Debug\Word_Jumble.exe
+H:\C#Learning\Word_Jumble\bin\Debug\Word_Jumble.pdb
+H:\C#Learning\Word_Jumble\obj\Debug\Word_Jumble.csproj.AssemblyReference.cache
+H:\C#Learning\Word_Jumble\obj\Debug\Word_Jumble.csproj.CoreCompileInputs.cache
+H:\C#Learning\Word_Jumble\obj\Debug\Word_Jumble.exe
+H:\C#Learning\Word_Jumble\obj\Debug\Word_Jumble.pdb
